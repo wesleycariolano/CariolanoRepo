@@ -1,0 +1,26 @@
+{
+  "name": "Cariolano Repo",
+  "identifier": "com.bmth.city.Demo",
+  "apps": [
+    {
+      "name": "Spotify++",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "julioverne",
+      "subtitle": "Spotify with free premium.",
+      "version": "8.5.7",
+      "versionDate": "2019-06-28T14:30:00-07:00",
+      "versionDescription": "Bug fixes.",
+      "downloadURL": "https://github.com/wesleycariolano/CariolanoRepo/IPA/Spotify++v8.4.3.ipa",
+      "localizedDescription": "Spotify++ essentially activates spotify premium on your device with one exception: No downloads.\n\nSo what does Spotify++ change?\n\n• All kinds of ads removed\n• Unlimited skips\n• Play any song or album\n• Enable extreme streaming quality\n• No forced shuffle\n• Import songs from the Music app",
+      "iconURL": "https://i.pinimg.com/originals/35/87/f8/3587f8e9df02e2990b93afb9cd6d2323.jpg",
+      "tintColor": "32CD32",
+      "size": 62287760,
+      "screenshotURLs": [
+        "https://trashbox.ru/ifiles/1171554_099548_screenshot_05.png-orig/spotify-android-11.jpg",
+	"https://trashbox.ru/ifiles/1171549_cc26fc_screenshot_00.png-orig/spotify-android-6.jpg",
+	"https://trashbox.ru/ifiles/1171550_7512f4_screenshot_01.png-orig/spotify-android-7.jpg",
+	"https://trashbox.ru/ifiles/1171551_b8bb29_screenshot_02.png-orig/spotify-android-8.jpg",
+	"https://trashbox.ru/ifiles/1171552_c13b7c_screenshot_03.png-orig/spotify-android-9.jpg",
+	"https://trashbox.ru/ifiles/1171553_0d4646_screenshot_04.png-orig/spotify-android-10.jpg"
+      ]
+    }
