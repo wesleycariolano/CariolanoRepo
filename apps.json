@@ -10,7 +10,7 @@
       "version": "8.5.7",
       "versionDate": "2019-06-28T14:30:00-07:00",
       "versionDescription": "Bug fixes.",
-      "downloadURL": "https://github.com/wesleycariolano/CariolanoRepo/raw/master/IPA/Spotify%2B%2Bv8.4.3.ipa",
+      "downloadURL": "https://f000.backblazeb2.com/file/AltStoreRus/Spotify%2B%2B+v8.5.7_v1.0.ipa",
       "localizedDescription": "Spotify++ essentially activates spotify premium on your device with one exception: No downloads.\n\nSo what does Spotify++ change?\n\n• All kinds of ads removed\n• Unlimited skips\n• Play any song or album\n• Enable extreme streaming quality\n• No forced shuffle\n• Import songs from the Music app",
       "iconURL": "https://i.pinimg.com/originals/35/87/f8/3587f8e9df02e2990b93afb9cd6d2323.jpg",
       "tintColor": "32CD32",
@@ -23,6 +23,327 @@
 	"https://trashbox.ru/ifiles/1171552_c13b7c_screenshot_03.png-orig/spotify-android-9.jpg",
 	"https://trashbox.ru/ifiles/1171553_0d4646_screenshot_04.png-orig/spotify-android-10.jpg"
       ]
+    },
+    { 
+      "name": "Instagram++",
+      "bundleIdentifier": "com.instagram.apprefresh",
+      "developerName": "Rocket",
+      "subtitle": "Instagram + Rocket 123 | 3.6.8 | RU | NoAds",
+      "version": "123.0",
+      "versionDate": "2019-06-28T14:30:00-07:00",
+      "versionDescription": "Bug fixes.",
+      "downloadURL": "https://f000.backblazeb2.com/file/AltStoreRus/IG+123+%2B+Rocket+3.6.8.ipa",
+      "localizedDescription": "Rocket enriches Instagram client with loads of features! Starting from saving posts, reposting, checking if other users follow you and many more.",
+      "iconURL": "https://lh3.googleusercontent.com/2sREY-8UpjmaLDCTztldQf6u2RGUtuyf6VT5iyX3z53JS4TdvfQlX-rNChXKgpBYMw",
+      "tintColor": "BA55D3",
+      "size": 62287760,
+      "screenshotURLs": [
+        "https://i.imgur.com/hQDBkcn.jpg",
+	"https://i.imgur.com/sXWyhUO.jpg",
+	"https://i.imgur.com/UA5IKKv.jpg"
+      ]
+    },
+    { 
+      "name": "YouTube++",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "Cercube 5",
+      "subtitle": "YouTube 15.08.4 | Cercube 5.1.9 | RU | No Ads",
+      "version": "15.08.4",
+      "versionDate": "2019-06-28T14:30:00-07:00",
+      "versionDescription": "Bug fixes.",
+      "downloadURL": "https://f000.backblazeb2.com/file/AltStoreRus/YT+15.08.4+Cercube+5.1.9.ipa",
+      "localizedDescription": "The official YouTube app is a great client but it lacks several key features that most YouTube users want like video downloads, customizable playback quality, no video ads and much more.",
+      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/YouTube_social_white_squircle_%282017%29.svg/1024px-YouTube_social_white_squircle_%282017%29.svg.png",
+      "tintColor": "FF4500",
+      "size": 62287760,
+      "screenshotURLs": [
+        "https://static.appdb.to/images/cydia-1900000161-iphone-0.png",
+	"https://static.appdb.to/images/cydia-1900000161-iphone-1.png",
+	"https://static.appdb.to/images/cydia-1900000161-iphone-2.png",
+	"https://static.appdb.to/images/cydia-1900000161-iphone-3.png"
+      ]
+    },
+    {
+      "name": "VK++",
+      "bundleIdentifier": "com.vk.vkclient.vkm.refresh",
+      "developerName": "VK App",
+      "subtitle": "VK 5.31.2 | VK++ 0.32b | ColoredVK",
+      "version": "5.31.2",
+      "versionDate": "2020-03-25T14:00:00-07:00",
+      "versionDescription": "",
+      "downloadURL": "https://www44.zippyshare.com/d/GzjjqSBc/30875/VK%205.31.2%20VK%2b%2b%200.32b%20CVK.ipa",
+      "localizedDescription": "Клиент VK с новым твиком VK++ с огромным количеством дополнительных настроек, с рабочей музыкой, без рекламы, возможностью изменять цвета и ставить фотографии в меню и диалогах и многим другим.\n\nP.S. Много функций может не работать, твик давно не обновляли.",
+      "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/6d/e2/c2/6de2c27c-4c36-0d0d-1845-56b7e58522b6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.jpg",
+      "tintColor": "1E90FF",
+      "size": 2184796,
+      "beta": true,
+      "screenshotURLs": [
+        "https://i.imgur.com/n0te9wW.jpg",
+        "https://i.imgur.com/PwDus1S.jpg",
+        "https://i.imgur.com/CiDk957.jpg",
+        "https://i.imgur.com/xZMwiLZ.jpg",
+        "https://i.imgur.com/tFRnZKW.jpg",
+        "https://i.imgur.com/HhrWRsG.jpg"
+      ]
+    },
+    {
+      "name": "Reddit++",
+      "bundleIdentifier": "com.reddit.Reddit",
+      "developerName": "syto203",
+      "subtitle": "Find your community",
+      "version": "2020.10.1",
+      "versionDate": "2020-03-24T14:00:00-08:00",
+      "versionDescription": "• Minor fixes and improvements\nPreviously in 2020.10.0\n• Design Update: Now you’ll see a loading spinner at the bottom of the Communities tab until all the communities and content have been fetched.\n• Bug Fix: Returning to RPAN after visiting a community won’t freeze the app anymore.\n• Minor fixes and improvements—In an effort to be more transparent, we’ll admit that we only put this here in case we forgot something",
+      "downloadURL": "https://cdn-35.myfile.is/j3nfe8l9ob/7e5b8beb-1585761084/Reddit_syto203.ipa",
+      "localizedDescription": "This tweaked version allows the user to view deleted posts retrieved by pushshift.io. and removes Ads.",
+      "iconURL": "https://www.marnet.ru/wp-content/uploads/2018/05/Reddit.png",
+      "tintColor": "FF6347",
+      "size": 2184796,
+      "beta": false,
+      "screenshotURLs": [
+        "https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/97/19/fc/9719fc80-2337-f650-6f9f-938a43eb4578/pr_source.png/1000x1000bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/07/4e/bf/074ebf0b-12ff-bf09-ea47-4de5f8bd5cf7/pr_source.png/1000x1000bb.png",
+        "https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/94/f0/21/94f02116-9495-22f3-d723-b1a6424e5587/pr_source.png/1000x1000bb.png",
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/56/16/4d/56164d88-5e13-e4e2-e78c-4d026c8091f1/pr_source.png/1000x1000bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/dc/0e/bc/dc0ebc27-5b27-0187-6e42-da4ee39336e9/pr_source.png/1000x1000bb.png"
+      ]
+    },
+    {
+      "name": "OrNET++",
+      "bundleIdentifier": "pironlabs.torbrowser.syto203",
+      "developerName": "syto203",
+      "subtitle": "Enabled Premium Features And VPN.",
+      "version": "1.2.3",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "Updated to OrNet v1.2.3",
+      "downloadURL": "https://www87.zippyshare.com/d/WvhGArMu/12803/OrNetPP-1.2.3-1.0-UNIV-syto203-iOS13.ipa",
+      "localizedDescription": "OrNET Browser is the best FREE app featuring a high performance TOR powered browser. OrNET Browser has been engineered on the latest technology of tor network which has been designed for faster and more secure access to Tor network.",
+      "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/1a/ca/c5/1acac5e5-595b-fba0-996b-f9ad44b8d546/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-85-220.png/246x0w.png",
+      "tintColor": "9370DB",
+      "size": 2184796,
+      "beta": false,
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/81/4c/5d/814c5d25-32fc-23ae-6b62-459a1f701300/mzl.nbkmiyfl.png/1000x1000bb.png",
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/c8/74/cf/c874cf74-fe65-a2f2-d5a9-cedc8c467910/mzl.qfrgjcac.png/1000x1000bb.png",
+        "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/a7/36/39/a7363932-72b0-c705-07d5-f62d5836bbab/mzl.rxjexcfj.png/1000x1000bb.png"
+      ]
+    },
+    {
+      "name": "Unfold++",
+      "bundleIdentifier": "com.lightricks.Enlight-Video",
+      "developerName": "syto203",
+      "subtitle": "Unfold — Stories Editor & Collage Maker",
+      "version": "4.12.3",
+      "versionDate": "2019-06-28T14:30:00-07:00",
+      "versionDescription": "Bug fixes. Updated Unfold to 4.12.3",
+      "downloadURL": "https://www87.zippyshare.com/d/CwWGo5i7/43465/UnfoldPP-4.12.3-1.0-UNIV-syto203-ios12.ipa",
+      "localizedDescription": "\n\nUnfold is a toolkit for storytellers. Create beautiful and engaging stories from minimal and elegant templates.\n\nEnables the following templates in Unfold:\n\n• DW1\n• DW2\n• NINE\n• Art\n• RP1\n• RP2\n•FF1\n•FF2\n•JN1\n•CS1\n•CS2\n•CS3\n•Love 2\n\nDoesn't Enable Fonts or Love,Pride and RED templates.",
+      "iconURL": "https://minimaron.com/wp-content/uploads/2019/05/18699426_1914339145473482_2825554124753608796_o.jpg",
+      "tintColor": "95b5d6",
+      "size": 62287760,
+      "screenshotURLs": [
+        "https://i.imgur.com/W2j590N.png",
+	"https://cdn1s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen1.jpg",
+	"https://cdn3s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen2.jpg",
+	"https://cdn3s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen3.jpg",
+	"https://cdn2s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen4.jpg",
+	"https://cdn3s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen5.jpg",
+	"https://cdn3s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen6.jpg",
+	"https://cdn2s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen7.jpg"
+      ]
+    },
+    {
+      "name": "Twitch++",
+      "bundleIdentifier": "com.apple.compilers.llvm.clang.1_0",
+      "developerName": "SarahH12099",
+      "subtitle": "No Video Ads On Twitch",
+      "version": "8.1.1",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "- Updated to Version: 8.1.1",
+      "downloadURL": "https://www87.zippyshare.com/d/Mgx8EWAL/15790/Twitch_v.8.1.1_SarahH12099_uploadedBy_ipabnb.ipa",
+      "localizedDescription": "Experience the games you love like never before! Watch live streams and chat with devoted gamers around the world.\n\nCatch the action as it happens! Access all the content you care about, from frenetic Overwatch multiplayer matches to soothing Bob Ross art demos. With millions of unique streamers every day playing everything under the sun, if it’s worth watching, it’s live on Twitch right now.",
+      "iconURL": "https://lh3.googleusercontent.com/QLQzL-MXtxKEDlbhrQCDw-REiDsA9glUH4m16syfar_KVLRXlzOhN7tmAceiPerv4Jg",
+      "tintColor": "4169E1",
+      "size": 2184796,
+      "beta": false,
+      "screenshotURLs": [
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/fb/df/09/fbdf09bc-dc58-d2e9-089b-ac83b2d17961/pr_source.png/1000x1000bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/9e/e9/28/9ee92814-5417-7f9d-3cae-4eaaf9dad6c2/pr_source.png/1000x1000bb.png",
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/02/20/99/02209952-b991-b581-8b5a-d0014400d2b0/pr_source.png/1000x1000bb.png",
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/37/8a/f8/378af812-08ff-626a-0e62-a8e5888be913/pr_source.png/1000x1000bb.png",
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/ef/28/fa/ef28fab9-b3b9-c536-3be1-4be65d4cb7fb/pr_source.png/1000x1000bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d1/e9/bc/d1e9bc3d-7e0e-3f7b-8c6a-4b6f8a656e07/pr_source.png/1000x1000bb.png"
+      ]
+    },
+    {
+      "name": "Chimera",
+      "bundleIdentifier": "com.electrateam.chimera",
+      "developerName": "Electra Team",
+      "subtitle": "Chimera is a jailbreak tool for iOS 12.",
+      "version": "1.4.0",
+      "versionDate": "2020-03-14T00:00:00-00:00",
+      "versionDescription": "Bug fixes and small improvements.",
+      "downloadURL": "https://chimera.sh/downloads/ios/1.4.0-12.0-12.4.ipa",
+      "localizedDescription": "Full-fledged\n\nChimera is the first true iOS 12 jailbreak to not only feature a CoreTrust bypass so that binaries don't need to be resigned, but to also support A12 devices, including iPhone Xs, iPhone Xr, and the newest iPads. Chimera doesn't tamper with user files, making it safer than alternatives.\n\nStable\n\nWe've rewritten Chimera from the ground up to ensure that there's no battery drain, freezing, or crashing. There's simply nothing else like it, and we can't wait for you to see for yourself\n\nModern\n\nChimera comes with a modern package manager, Sileo, featuring a UI made to fit iOS, and packed full of features and speed enhancements to make installing packages a breeze. Rather than sticking to tools built decades ago, it ships with modern system tools designed to take advantage wherever possible..",
+      "iconURL": "https://i.imgur.com/cF9hdzv.png",
+      "tintColor": "C0C0C0",
+      "size": 91350280,
+      "screenshotURLs": [
+		"https://quarklibrary.imfast.io/Chimera/image0.png",
+		"https://quarklibrary.imfast.io/Chimera/image1.png",
+		"https://quarklibrary.imfast.io/Chimera/image2.png"
+      ]
+    },
+    {
+      "name": "iTorrent",
+      "bundleIdentifier": "ru.nonamedude.iTorrent",
+      "developerName": "XITRIX",
+      "subtitle": "Straightforward iOS torrent client app",
+      "version": "1.7.4.1",
+      "versionDate": "2020-03-19T14:30:00-07:00",
+      "versionDescription": "Fixed:\n\n• Background mode not work if zero speed limit disabled\n\nWhat's new:\n\n• Added https protocol support for trackers!\n• FTP server replaced by WebDAV, file sharing is now possible through a web browser\n• Added background stop when downloading at zero speed\n• Clicking on a notification now opens a specific window\n• UI improvements",
+      "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/1.7.4Hotfix/iTorrent.ipa",
+      "localizedDescription": "iTorrent is an ordinary torrent client for iOS with Files app support.\n\nWhat can this app do:\n\n• Download in the background\n• Sequential download (use VLC to watch films while loading)\n• Add torrent files from Share menu (Safari and other apps)\n• Add magnet links directly from Safari\n• Store files in Files app (iOS 11+)\n• File sharing directly from app\n• Download torrent by link\n• Download torrent by magnet\n• Send notification on torrent downloaded\n• FTP Server (unstable)\n• Select files to download or not\n• Change UI to dark theme\n\nNow supporting these localizations:\n• English\n• Russian",
+      "iconURL": "https://images.opencollective.com/itorrent/0ec0088/logo/256.png",
+      "tintColor": "e32b3c",
+      "size": 20132659,
+      "screenshotURLs": [
+        "https://quarklibrary.imfast.io/iTorrent/image0.png",
+        "https://quarksources.imfast.io/iTorrent/image1.png",
+        "https://quarklibrary.imfast.io/iTorrent/image2.png",
+		"https://quarklibrary.imfast.io/iTorrent/image3.png"
+      ]
+    },
+    {
+	 "name": "unc0ver",
+	  "bundleIdentifier": "science.xnu.undecimus",
+	  "developerName": "Pwn20wnd & Sam Bingner",
+	  "subtitle": "The most advanced jailbreak tool.",
+	  "version": "4.3.1",
+	  "versionDate": "2020-03-08T14:30:00-07:00",
+	  "versionDescription": "Made the following changes for the substitute code substitutor:\n\n• Bumped version to 4.3.1 due to a github bug causing an older file to be temporarily available\n• Add support for rebooting the userspace for the first time in a jailbreak\n• Add support for injecting to the entire userspace\n• Add support for looking up or registering services from the sandbox with the cy: prefix for developers\n• Reboot the userspace after jailbreaking\n• Make major design changes to preserve stock system performance\n• Fix random reboots, freezes, memory issues and any known problem that affected system services or apps\n• Fix persistent software update blocker on iOS 13 (Works in the jailed state too)\n• Fix a design problem that affected the Succession restore tool\n• Automatically re-enable software updates when restoring RootFS",
+	  "downloadURL": "https://github.com/pwn20wndstuff/Undecimus/releases/download/v4.3.1/Undecimus-v4.3.1.ipa",
+	  "localizedDescription": "unc0ver is a jailbreak, which means that you can have the freedom to do whatever you would like to do to your iOS device. Allowing you to change what you want and operate within your purview, unc0ver unlocks the true power of your iDevice.\n\nCompatibility:\nunc0ver supports iOS 11.0 through to iOS 13.3 (Excluding 12.3-12.3.2).\n\nStability:\nUtilizing the latest stable APT and Mobile Substrate, stability is guaranteed.",
+	  "iconURL": "https://raw.githubusercontent.com/pwn20wndstuff/Undecimus/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png",
+	  "tintColor": "101216",
+	  "size": 35483648,
+	  "screenshotURLs": [
+	        "https://quarklibrary.imfast.io/unc0ver/image0.png",
+		"https://quarklibrary.imfast.io/unc0ver/image1.png",
+		"https://quarklibrary.imfast.io/unc0ver/image2.png"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "Spotify++\nnow on AltStore!",
+      "identifier": "spotify++-available-now",
+      "caption": "Premium spotify, available for free.",
+      "tintColor": "2E8B57",
+      "imageURL": "https://techlacarte.com/wp-content/uploads/2019/07/Get-Spotify-Premium-for-Free.jpg",
+      "appID": "com.spotify.client",
+      "date": "2020-03-28",
+      "notify": false
+    },
+    {
+      "title": "Instagram++\nnow on AltStore!",
+      "identifier": "Instagram++-available-now",
+      "caption": "Rocket for Instagram | RU | NoAds.",
+      "tintColor": "BA55D3",
+      "imageURL": "https://www.imentality.com/wp-content/uploads/2017/11/Instagram-download-iOS-11.jpg",
+      "appID": "com.instagram.apprefresh",
+      "date": "2020-03-24",
+      "notify": false
+    },
+    {
+      "title": "Cercube 5 for YouTube++",
+      "identifier": "YouTube++-available-now",
+      "caption": "YouTube++ | RU | NoAds.",
+      "tintColor": "FF4500",
+      "imageURL": "https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_YouTube.jpg",
+      "appID": "com.google.ios.youtube",
+      "date": "2020-03-24",
+      "notify": false
+    },
+    {
+      "title": "VK — social network",
+      "identifier": "VK++-now-available",
+      "caption": "VK++ с огромным количеством дополнительных настроек.",
+      "tintColor": "1E90FF",
+      "imageURL": "https://direktorinterneta.com/wp-content/uploads/2017/12/G6dTqBmefc.jpg",
+      "appID": "com.vk.vkclient.vkm.refresh",
+      "date": "2020-03-28",
+      "beta": true
+    },
+    {
+      "title": "Twitch — Live Game Streaming",
+      "identifier": "Twitch++-now-available",
+      "caption": "No Video Ads On Twitch",
+      "tintColor": "4169E1",
+      "imageURL": "https://static.feber.se/article_images/48/13/68/481368.jpg",
+      "appID": "com.apple.compilers.llvm.clang.1_0",
+      "date": "2020-03-24",
+      "notify": false
+    },
+    {
+      "title": "OrNET - Private Onion Browser",
+      "identifier": "tor-now-available",
+      "caption": "Enabled Premium Features And VPN.",
+      "tintColor": "9370DB",
+      "imageURL": "https://miro.medium.com/max/3840/1*TAWZrQWAMZLDrlZ35nomhw.jpeg",
+      "appID": "pironlabs.torbrowser.syto203",
+      "date": "2020-03-26",
+      "notify": false
+    },
+    {
+      "title": "Unfold++ — Story Templates",
+      "identifier": "Unfold++-available-now",
+      "caption": "Create beautiful and engaging\nstories from minimal and elegant templates",
+      "tintColor": "b9cee4",
+      "imageURL": "https://i1.wp.com/www.appsmedian.com/wp-content/uploads/2019/01/descargar-unfold-create-stories-1.jpg",
+      "appID": "com.lightricks.Enlight-Video",
+      "date": "2020-03-24",
+      "notify": false
+    },
+    {
+       "title": "Chimera now available on AltStore!",
+       "identifier": "chimera-x-altstore",
+       "caption": "Your device, your way..",
+       "tintColor": "B8CDCF",
+       "imageURL": "https://i.ytimg.com/vi/mTfFFEXdNJg/maxresdefault.jpg",
+       "appID": "com.electrateam.chimera",
+       "date": "2020-03-25",
+       "notify": true
+    },
+    {
+      "title": "iTorrent Now Available",
+      "identifier": "itorrent-available-download",
+      "caption": "Simple and straightforward torrenting for iOS.",
+      "tintColor": "e32b3c",
+      "imageURL": "https://telegra.ph/file/f649e262685980980998c.jpg",
+      "appID": "ru.nonamedude.iTorrent",
+      "date": "2020-03-24",
+      "notify": false
+    },
+    {
+      "title": "Reddit++\nnow on AltStore!",
+      "identifier": "Reddit++-now-available",
+      "caption": "Find your community",
+      "tintColor": "FF7F50",
+      "imageURL": "https://ours.agency/wp-content/uploads/2019/04/Reddit.png",
+      "appID": "com.reddit.Reddit",
+      "date": "2020-03-23",
+      "notify": false
+    },
+    {
+      "title": "unc0ver out now!",
+      "identifier": "uncover-available-download",
+      "caption": "The most advanced jailbreak tool yet. Tap to download.",
+      "tintColor": "101216",
+      "imageURL": "https://quarklibrary.imfast.io/unc0ver/news.png",
+      "appID": "science.xnu.undecimus",
+      "date": "2020-03-27",
+      "notify": false
     }
   ],
   "userInfo": {
