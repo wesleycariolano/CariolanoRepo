@@ -10,10 +10,10 @@
       "version": "8.9",
       "versionDate": "2020-04-13T14:30:00-07:00",
       "versionDescription": "Atualizado para Deezer++ v8.9_005.",
-      "downloadURL": "https://github.com/wesleycariolano/CariolanoRepo/raw/master/IPA/Deezerv8.9_005.ipa",
+      "downloadURL": "https://github.com/wesleycariolano/CariolanoRepo/raw/master/IPA/Deezer%20v8.9_005.ipa",
       "localizedDescription": "Este ajuste traz todos os recursos premium para o aplicativo Deezer original. Com o Deezer ++, você pode transmitir as músicas favoritas sem interrupções.",
       "iconURL": "https://static.appdb.to/images/cydia-1900000044-icon.png",
-      "tintColor": "32CD32",
+      "tintColor": "F2F2F2",
       "size": 62287760,
       "screenshotURLs": [
         "https://static.appdb.to/images/cydia-1900000044-iphone-0.png",
@@ -255,6 +255,16 @@
     }
   ],
   "news": [
+    {
+      "title": "Deezer++\now on AltStore!",
+      "identifier": "Deezer++-available-now",
+      "caption": "Premium Deezer, available for free.",
+      "tintColor": "F2F2F2",
+      "imageURL": "https://static.appdb.to/images/cydia-1900000044-iphone-0.png",
+      "appID": "com.deezer.client",
+      "date": "2020-03-28",
+      "notify": true
+    },
     {
       "title": "Spotify++\nnow on AltStore!",
       "identifier": "spotify++-available-now",
