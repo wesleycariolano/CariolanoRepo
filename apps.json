@@ -3,6 +3,26 @@
   "identifier": "com.bmth.city.Demo",
   "apps": [
     {
+      "name": "Deezer++",
+      "bundleIdentifier": "com.deezer.client",
+      "developerName": "julioverne",
+      "subtitle": "Tweaked version,Unlocked all premium features.",
+      "version": "8.9",
+      "versionDate": "2020-04-13T14:30:00-07:00",
+      "versionDescription": "Atualizado para Deezer++ v8.9_005.",
+      "downloadURL": "https://github.com/wesleycariolano/CariolanoRepo/raw/master/IPA/Deezerv8.9_005.ipa",
+      "localizedDescription": "Este ajuste traz todos os recursos premium para o aplicativo Deezer original. Com o Deezer ++, você pode transmitir as músicas favoritas sem interrupções.",
+      "iconURL": "https://static.appdb.to/images/cydia-1900000044-icon.png",
+      "tintColor": "32CD32",
+      "size": 62287760,
+      "screenshotURLs": [
+        "https://static.appdb.to/images/cydia-1900000044-iphone-0.png",
+	"https://static.appdb.to/images/cydia-1900000044-iphone-1.png",
+	"https://static.appdb.to/images/cydia-1900000044-iphone-2.png",
+	"https://static.appdb.to/images/cydia-1900000044-iphone-3.png"
+      ]
+    },
+    {
       "name": "Spotify++",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "julioverne",
